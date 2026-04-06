@@ -1,4 +1,5 @@
-<div align="center">
+
+2,66<div align="center">
 
 # 📋 SimpleAdmin
 
@@ -103,7 +104,7 @@ cadastro-de-pessoas/
 Feito com 💙 por **Richard Henrique**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Livedriven)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/richardhenrique)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-henrique-06b945293/)
 
 ---
 

@@ -1,11 +1,11 @@
 
-2,66<div align="center">
+<div align="center">
 
 # 📋 SimpleAdmin
 
 **Gerenciamento de cadastros simples, rápido e direto no navegador.**
 
-Desenvolvido por [Richard Henrique](https://github.com/richardhenrique) · Desafio de Formulários — [Alura](https://www.alura.com.br)
+Desenvolvido por [Richard Henrique](https://github.com/richardhenrique) · Desafio de Formulários — [Alura](https://7daysofcode.io/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)

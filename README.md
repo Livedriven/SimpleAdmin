@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📋 Simple
+# 📋 SimpleAdmin
 
 **Gerenciamento de cadastros simples, rápido e direto no navegador.**
 

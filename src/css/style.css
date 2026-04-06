@@ -1,0 +1,103 @@
+@import url(reset.css);
+@import url(layout.css);
+
+
+.page-title {
+    font-size: 2.5rem;
+    color: #060606;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+}
+
+.input-name,
+.input-birthdate {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #060606;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.register-people {
+    padding: 10px 20px;
+    background-color: #060606;
+    color: #f6faf6;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+.register-people:hover {
+    background-color: #f6faf6;
+    color: #060606;
+    transform: scale(1.20);
+}
+
+.js-clear-button {
+    padding: 10px 20px;
+    background-color: #060606;
+    color: #f6faf6;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+.js-clear-button:hover {
+    background-color: #f6faf6;
+    color: #060606;
+    transform: scale(1.20);
+}
+
+.js-clear-button,
+.register-people {
+    margin: 5px;
+}
+
+.people-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: #eaeaea;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    filter: drop-shadow(0 2px 5px rgba(42, 30, 100, 0.64));
+}
+
+.header-row {
+    color: #000000;
+}
+
+.header-cell {
+    background-color: rgb(246, 241, 239);
+    padding: 10px;
+    border: 2px solid #060606;
+}
+
+.header-delete,
+.delete-cell {
+    background-color: transparent !important;
+    border: 1px solid transparent !important;
+    padding: 5px;
+}
+
+.delete-btn {
+    cursor: pointer;
+}
+
+
+
+.name-cell,
+.birthdate-cell {
+    background-color: #665858;
+    padding: 10px;
+    border: 2px solid #060606;
+}
